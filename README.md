@@ -5,7 +5,7 @@ I'm currently at the final stages of a master's degree in AAA videogame programm
 
 I'm really passionate about game development and I always try to have some personal projects going on. Currently, I'm working on a [Terraria-style game](https://github.com/PolCurto/terrario) built entirely from scratch in C++ with SDL, focusing on custom systems like world generation, tile rendering, inventory management, etc.
 
-## 🖥️ Previous projects
+### 🖥️ Previous projects
 
 #### C++
 - [Chip-8 emulator](https://github.com/PolCurto/chip8-emulator)
@@ -17,8 +17,9 @@ I'm really passionate about game development and I always try to have some perso
 - [Generation Madness](https://github.com/PolCurto/generation-madness) - A roguelike focued in the different algorithms to generate levels
 - [Mafia News](https://github.com/PolCurto/Produccio-VJ) - A 2D hack and slash videogame
 
-## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/pol-curto-b19773279)
+### 📫 Contact
+- polcurto@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/pol-curto-b19773279)
 
 <!--
 **PolCurto/PolCurto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
