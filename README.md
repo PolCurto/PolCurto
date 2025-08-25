@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Pol Curto 
-I'm a videogame programmer experienced in working with C++, having developed a custom engine from scratch. I have also professional experience using Unity, and have used other popular game engines like Godot and Unreal. My background extends beyond games, including experience in software and web development
+I'm a Software Engineer experienced in C++, C#, and software architecture, with a strong background in videogame development and general software engineering. I enjoy designing efficient systems, solving complex problems, and working on projects that combine creativity with solid technical foundations. My professiona experience includes working the Unity Game Engine, and front-end development with the Angular framework using TypeScript.
 
-I'm currently at the final stages of a master's degree in AAA videogame programming in the UPC, where we are developing a custom engine and a game on top of it. I also have a Multimedia Engineering degree in La Salle.
+I'm currently at the final stages of a master's degree in AAA videogame programming in the UPC, where we are developing a custom engine and a game on top of it. I also have a Multimedia Engineering degree in La Salle, where I learnt about a whole lot of other technologies and languages like Java, SQL, C, Docker, PHP, etc.
 
-I'm really passionate about game development and I always try to have some personal projects going on. Currently, I'm working on a [Terraria-style game](https://github.com/PolCurto/terrario) built entirely from scratch in C++ with SDL, focusing on custom systems like world generation, tile rendering, inventory management, etc.
+I'm really passionate about software development and I always try to have some personal projects going on. Currently, I'm working on a [Terraria-style game](https://github.com/PolCurto/terrario) built entirely from scratch in C++ with SDL, focusing on custom systems like world generation, tile rendering, inventory management, etc.
 
 ### 🖥️ Previous projects
 
