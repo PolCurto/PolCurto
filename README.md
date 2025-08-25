@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Pol Curto 
-I'm a Software Engineer experienced in C++, C#, and software architecture, with a strong background in videogame development and general software engineering. I enjoy designing efficient systems, solving complex problems, and working on projects that combine creativity with solid technical foundations. My professiona experience includes working the Unity Game Engine, and front-end development with the Angular framework using TypeScript.
+I'm a Software Engineer experienced in C++, C#, and software architecture, with a strong background in videogame development and general software engineering. I enjoy designing efficient systems, solving complex problems, and working on projects that combine creativity with solid technical foundations. My professional experience includes working the Unity Game Engine, and front-end development with the Angular framework using TypeScript.
 
 I'm currently at the final stages of a master's degree in AAA videogame programming in the UPC, where we are developing a custom engine and a game on top of it. I also have a Multimedia Engineering degree in La Salle, where I learnt about a whole lot of other technologies and languages like Java, SQL, C, Docker, PHP, etc.
 
